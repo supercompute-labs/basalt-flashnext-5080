@@ -1,3 +1,5 @@
+> **Moved:** this recipe now lives in [Flagship](https://github.com/supercompute-labs/flagship/tree/main/recipes/qwen38-flashnext-rtx5080-basalt), the Supercompute Labs inference stack. This repo is archived.
+
 # Qwen3.8-Flash-Next on one RTX 5080: 55 → 149 tok/s
 
 **Supercompute Labs · Dyno sheet #001**
